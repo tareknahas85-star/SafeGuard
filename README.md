@@ -1,6 +1,12 @@
-# SafeGuard
+# SafeGuard (legacy)
 
-A web dashboard mockup for a parental control app. It's a front-end prototype only, built with React, Vite and Tailwind.
+> هاد الريبو مجمّد — الشغل المستمر صار بـ [beaver-guardian-safeguard-webapp](https://github.com/tareknahas85-star/beaver-guardian-safeguard-webapp) (نفس الواجهة + غلاف أندرويد). محطوط هون للأرشيف بس.
+>
+> This repo is frozen — active development moved to [beaver-guardian-safeguard-webapp](https://github.com/tareknahas85-star/beaver-guardian-safeguard-webapp) (same app + an Android wrapper). Kept here for history only.
+
+---
+
+A web dashboard mockup for a parental control app. Front-end prototype only, built with React, Vite and Tailwind.
 
 ## What it shows
 
